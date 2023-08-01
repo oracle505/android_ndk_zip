@@ -6,6 +6,8 @@
  tar zcvf -  21.4.7075529 | split -d -b 128m - ndk21.4.7075529bagsplit
 tar zcvf -  21.4.7075529 | split -d -b 98m - ndk21.4.7075529bagsplit
 
+tar zcvf -  23.2.8568313 | split -d -b 98m - ndk23.2.8568313bagsplit
+
 
 
 2.解压分卷 
